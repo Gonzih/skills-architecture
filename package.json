@@ -1,0 +1,25 @@
+{
+  "name": "@gonzih/skills-architecture",
+  "version": "1.0.0",
+  "description": "Architecture and design skills for Claude Code",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonzih/skills-architecture"
+  },
+  "files": [
+    "skills/"
+  ],
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skills",
+    "architecture",
+    "design",
+    "ai"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

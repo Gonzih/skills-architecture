@@ -1,0 +1,26 @@
+{
+  "generated": "2026-03-22T00:00:00.000Z",
+  "count": 4,
+  "skills": [
+    {
+      "name": "design-narrative",
+      "directory": "design-narrative",
+      "description": "Write architectural design narratives for projects. Produces structured narratives covering project vision, spatial organization, material palette, sustainability strategies, and design intent."
+    },
+    {
+      "name": "building-spec-summary",
+      "directory": "building-spec-summary",
+      "description": "Summarize complex building specifications clearly. Reads lengthy NBS, CSI, or proprietary specification documents and produces concise summaries by trade, section, or topic."
+    },
+    {
+      "name": "client-brief",
+      "directory": "client-brief",
+      "description": "Write detailed client briefs for architectural projects. Conducts a structured interview and produces a formal client brief document covering project scope, spatial requirements, budget, programme, and aspirations."
+    },
+    {
+      "name": "permit-memo",
+      "directory": "permit-memo",
+      "description": "Write permit application memos and supporting documentation for architectural projects. Produces formal planning/building permit cover letters, statement of compliance, and supporting memos."
+    }
+  ]
+}
