@@ -107,6 +107,16 @@ supported on planning merits.]
 - Flag any issues the applicant should resolve before lodgement
 - Include a checklist of required attachments
 
+## Live Data Sources
+
+When preparing permit documentation, consult these authoritative sources:
+
+- **DigitalBuildingPermits.org Patterns** — digitalbuildingpermits.org — electronic permit submission standards, jurisdiction-specific digital workflow requirements, and accepted file format conventions; use to align submission packages with the authority's intake system
+- **Municipal Permit Fee Schedules** — local authority fee schedules for building and planning permits; use to include accurate fee estimates in the application cover letter and advise the applicant of likely costs before lodgement
+- **IBC/IRC Code Section Lookup** — International Building Code (IBC) and International Residential Code (IRC) section references; use to cite specific code sections in the Statement of Compliance table and support any discretionary variation arguments with code intent language
+
+Cite applicable IBC/IRC sections in the Statement of Compliance and note the jurisdiction's adopted code edition.
+
 ## Output
 
 Produce the complete memo and cover letter. Offer to adjust for a specific jurisdiction or planning authority format, or to draft a response to a request for further information (RFI).
