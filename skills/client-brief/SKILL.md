@@ -103,6 +103,15 @@ _Architect signature: __________ Date: _______
 - Note items to be confirmed rather than guessing
 - Keep the brief factual — save design interpretation for the narrative
 
+## Live Data Sources
+
+When establishing budget guidance and benchmarking scope, reference these sources:
+
+- **AIA Client Guide Templates** — aia.org — AIA-published client guidance documents covering project delivery methods, fee structures, and owner responsibilities; use to frame budget and programme conversations and set realistic expectations
+- **Project Type Cost/sqft Benchmarks by Region** — regional construction cost benchmarks by building typology (office, residential, civic, healthcare, education); use to sanity-check client budgets against current market rates and flag misalignments between budget, programme, and scope early in the brief
+
+Cite applicable benchmarks in Section 6 (Budget) and flag any gaps between client expectations and current market conditions.
+
 ## Output
 
 Produce the complete brief. Offer to adjust, expand any section, or export as a formatted document.
